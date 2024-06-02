@@ -1,0 +1,42 @@
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    width: 100%;
+}
+
+td {
+    border: 2px solid black;
+    height: 35px;
+}
+
+.one_yellow {
+    background-color: yellow;
+}
+
+.two_red {
+    background-color: red;
+}
+
+.two_yellow {
+    background-color: yellow;
+}
+
+.three_black {
+    background-color: black;
+}
+
+.four_yellow {
+    background-color: yellow;
+}
+
+.four_blue {
+    background-color: blue;
+}
+
+.four_red {
+    background-color: red;
+}
+
+.five_black {
+    background-color: black;
+}
